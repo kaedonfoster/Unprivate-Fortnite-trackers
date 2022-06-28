@@ -1,0 +1,35 @@
+h1{
+text-align: center;
+font-size: 3em;
+font-weight: bold;
+}
+
+p{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.userbtn{
+ display: flex;
+ justify-content: center;
+ margin-top: 5%;
+}
+input{ 
+  font-size: 1.5em;;
+}
+
+#findbtn{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+
+
+
+}
+
+#findbtn:hover{
+     color: gray;
+}
